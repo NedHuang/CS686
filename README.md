@@ -1,1 +1,1 @@
-# CS686
+# CS686 class notes and assignment.
